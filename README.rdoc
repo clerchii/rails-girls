@@ -1,0 +1,7 @@
+== README
+
+This is the first web app I made using Ruby on Rails.
+
+Ruby and Rails version installed in my local machine:
+* ruby 2.1.5
+* Rails 4.2.1
