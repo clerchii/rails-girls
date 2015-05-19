@@ -1,19 +1,19 @@
-= SET UP
+==== SET UP
   $ git clone https://github.com/clerchii/rails-girls.git
   $ cd rails-girls
   $ bundle install
 
-= ABOUT
+==== ABOUT
   Ruby and Rails version installed in my local machine:
   * ruby 2.1.5
   * Rails 4.2.1
 
-= DESCRIPTION
+==== DESCRIPTION
   This is the first web app I made using Ruby on Rails.
   A simple web application that allows user to upload pictures and audio files.
   It also has log-in and sign-up function.
 
-= AUTHOR
+==== AUTHOR
   Name: Mary Claire De Vera
   Country: Philippines
   ~Hello there! I was inspired by the RAILS GIRLS MANILA event I had attended last May 9, 2015 in Makati, Philippines.
