@@ -11,6 +11,8 @@ group :production do
   gem 'pg'
   gem 'rails_12factor'
 end
+# Add devise
+gem 'devise'
 # Adding Picture uploads
 gem 'carrierwave'
 # imagemagic
